@@ -1,0 +1,7 @@
+div.first-element {
+    background-color: mediumpurple;
+    width: 200px;
+    height: 150px;
+    position: absolute;
+    top: -50px;
+}
